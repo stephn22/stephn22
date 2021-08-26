@@ -1678,22 +1678,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 52.418579818473034%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 52.41928102913511%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">66%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML+Razor</span>
-                            <div class="bar" style="width: 27.075992169425163%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 27.075303808410027%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">34%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.31983321892558414%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.3198250877103778%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 0.18559479317621336%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.18559007474449585%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3722,7 +3722,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26/08/2021, 12:29 (timezone Europe/Rome) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 26/08/2021, 13:22 (timezone Europe/Rome) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
