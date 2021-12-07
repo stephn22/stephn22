@@ -1693,7 +1693,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 30 edited files from 30 commits over last 8 days
+            estimation from 30 edited files from 30 commits over last 9 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -3881,7 +3881,7 @@ Create codeql-analysis.yml</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2021, 23:27:55 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 8 Dec 2021, 00:27:50 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
