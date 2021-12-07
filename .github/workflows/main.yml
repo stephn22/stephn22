@@ -19,11 +19,7 @@ jobs:
           user: stecrotti1
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Rome
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes 
-          plugin_habits_trim: yes       
+          config_timezone: Europe/Rome     
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
