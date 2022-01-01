@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1440" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1420" class="">
     <defs>
         <style/>
     </defs>
@@ -1693,16 +1693,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 14 edited files from 21 commits over last 14 days
+            estimation from 12 edited files from 16 commits over last 11 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="399.15183476159086" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="399.15183476159086" y="0" width="41.03713469567128" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.18896945726215" y="0" width="19.81103054273786" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.327868852459" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.327868852459" y="0" width="54.67213114754098" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1712,18 +1711,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>3.95 kB</div>
-                                <div>86.77%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      CSS
-                    </div>
-                            <small>
-                                <div>196 bytes</div>
-                                <div>4.31%</div>
+                                <div>3.01 kB</div>
+                                <div>88.11%</div>
                             </small>
                         </div>
                     </section>
@@ -1735,7 +1724,7 @@
                     </div>
                             <small>
                                 <div>406 bytes</div>
-                                <div>8.92%</div>
+                                <div>11.89%</div>
                             </small>
                         </div>
                     </section>
@@ -3885,7 +3874,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jan 2022, 19:32:22 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 1 Jan 2022, 20:21:13 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
