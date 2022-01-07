@@ -371,17 +371,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 190 edited files from 51 commits over last 11 days</small>
+                <small>estimation from 190 edited files from 52 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.15776930409913" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="283.15776930409913" y="0" width="76.06768350810296" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="359.2254528122021" y="0" width="62.77168732125835" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="421.99714013346045" y="0" width="35.193040991420396" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.19018112488084" y="0" width="2.809818875119161" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.8907982836177" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="282.8907982836177" y="0" width="76.0881822516117" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="358.9789805352294" y="0" width="62.788603055492224" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="421.76758359072164" y="0" width="35.2025248232831" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="456.97010841400476" y="0" width="3.0298915859953155" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -394,7 +394,7 @@
                             </div>
                             <small>
                                 <div>118 kB</div>
-                                <div>61.56%</div>
+                                <div>61.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -417,8 +417,8 @@
                                 CSS
                             </div>
                             <small>
-                                <div>1.18 kB</div>
-                                <div>0.61%</div>
+                                <div>1.27 kB</div>
+                                <div>0.66%</div>
                             </small>
                         </div>
                     </section>
@@ -2522,6 +2522,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">react</span></div>
                                     <div class="commit">
+                                        <span class="sha">#4cfbb2f</span>
+                                        <span class="message">Update SignUp</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Jan 2022, 10:20:03</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">react</span></div>
+                                    <div class="commit">
                                         <span class="sha">#2ff6000</span>
                                         <span class="message">Add SIgnUp and Header components</span>
                                     </div>
@@ -2592,33 +2613,12 @@
                                 <div class="timestamp">6 Jan 2022, 00:43:22</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">react</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#2cef0c4</span>
-                                        <span class="message">Update node.js.yml</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">6 Jan 2022, 00:38:57</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2022, 09:33:23 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 7 Jan 2022, 10:28:48 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
