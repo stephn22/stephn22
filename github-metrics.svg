@@ -371,17 +371,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 388 edited files from 65 commits over last 11 days</small>
+                <small>estimation from 387 edited files from 65 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.24309142187303" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="340.24309142187303" y="0" width="51.26623414305776" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="391.5093255649308" y="0" width="37.2250786318636" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="428.7344041967944" y="0" width="29.56917863070299" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.3035828274974" y="0" width="1.6964171725026405" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.9592239165399" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="339.9592239165399" y="0" width="51.38775379621847" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="391.34697771275836" y="0" width="37.31331563073504" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="428.6602933434934" y="0" width="29.63926835723572" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.2995617007291" y="0" width="1.7004382992708584" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -394,7 +394,7 @@
                             </div>
                             <small>
                                 <div>254 kB</div>
-                                <div>73.97%</div>
+                                <div>73.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -406,7 +406,7 @@
                             </div>
                             <small>
                                 <div>27.8 kB</div>
-                                <div>8.09%</div>
+                                <div>8.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -432,7 +432,7 @@
                             </div>
                             <small>
                                 <div>38.4 kB</div>
-                                <div>11.14%</div>
+                                <div>11.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -444,7 +444,7 @@
                             </div>
                             <small>
                                 <div>22.1 kB</div>
-                                <div>6.43%</div>
+                                <div>6.44%</div>
                             </small>
                         </div>
                     </section>
@@ -2624,7 +2624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2022, 19:33:51 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 7 Jan 2022, 20:19:52 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
