@@ -371,17 +371,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 390 edited files from 80 commits over last 14 days</small>
+                <small>estimation from 387 edited files from 82 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.5988440714437" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="340.5988440714437" y="0" width="50.94762361852618" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="391.54646768996986" y="0" width="37.20489167157245" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="428.7513593615423" y="0" width="29.5531434238801" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.3045027854224" y="0" width="1.6954972145775757" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.94486545396074" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="351.94486545396074" y="0" width="52.92904509086362" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="404.8739105448244" y="0" width="30.786015668501904" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="435.6599262133263" y="0" width="22.80460824278734" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.46453445611365" y="0" width="1.5354655438863958" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -393,8 +393,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>255 kB</div>
-                                <div>74.04%</div>
+                                <div>256 kB</div>
+                                <div>76.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -405,8 +405,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>27.8 kB</div>
-                                <div>8.09%</div>
+                                <div>22.4 kB</div>
+                                <div>6.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -417,8 +417,8 @@
                                 CSS
                             </div>
                             <small>
-                                <div>1.27 kB</div>
-                                <div>0.37%</div>
+                                <div>1.12 kB</div>
+                                <div>0.33%</div>
                             </small>
                         </div>
                     </section>
@@ -431,8 +431,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>38.1 kB</div>
-                                <div>11.08%</div>
+                                <div>38.6 kB</div>
+                                <div>11.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -443,8 +443,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>22.1 kB</div>
-                                <div>6.42%</div>
+                                <div>16.6 kB</div>
+                                <div>4.96%</div>
                             </small>
                         </div>
                     </section>
@@ -2508,6 +2508,48 @@
                                 <div class="details">
                                     <div>on branch <span class="code">react</span></div>
                                     <div class="commit">
+                                        <span class="sha">#24d55e3</span>
+                                        <span class="message">Update Infrastructure and DependencyInjection</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Jan 2022, 14:19:16</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">react</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#d05db5d</span>
+                                        <span class="message">Update Queries</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Jan 2022, 14:19:01</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">react</span></div>
+                                    <div class="commit">
                                         <span class="sha">#6a08f5f</span>
                                         <span class="message">Update README.md</span>
                                     </div>
@@ -2553,54 +2595,12 @@
                                 <div class="timestamp">10 Jan 2022, 11:37:07</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev-razor</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#27c3125</span>
-                                        <span class="message">Update dotnet.yml</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Jan 2022, 11:13:27</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev-razor</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#038a37a</span>
-                                        <span class="message">Update codeql-analysis.yml</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Jan 2022, 11:13:14</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jan 2022, 13:46:43 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 10 Jan 2022, 14:34:13 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
