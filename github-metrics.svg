@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1483" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1517" class="">
     <defs>
         <style/>
     </defs>
@@ -68,7 +68,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1876 Commits
+                            1877 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -218,17 +218,17 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.50079511295002" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="127.50079511295002" y="0" width="65.41869841842141" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="192.91949353137142" y="0" width="65.3989219685189" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="258.3184154998903" y="0" width="60.69280108887727" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="319.01121658876764" y="0" width="54.98190171475696" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="373.99311830352457" y="0" width="47.429769908235905" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="421.4228882117605" y="0" width="27.55061730566389" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="448.9735055174244" y="0" width="5.345484515694381" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.3189900331188" y="0" width="4.918268251323112" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.2372582844419" y="0" width="0.513064035538984" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.75032231998085" y="0" width="0.2496776800191902" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.5188252018818" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="127.5188252018818" y="0" width="65.41515102662935" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="192.93397622851114" y="0" width="65.39537564912384" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="258.32935187763496" y="0" width="60.6895099634097" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="319.01886184104467" y="0" width="54.97892026829638" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="373.9977821093411" y="0" width="47.42719798338047" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.42498009272157" y="0" width="27.5491233469631" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="448.97410343968465" y="0" width="5.345194651659266" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.31929809134397" y="0" width="4.918001553500506" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.2372996448445" y="0" width="0.5130362141485791" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.7503358589931" y="0" width="0.2496641410070396" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -371,17 +371,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 389 edited files from 78 commits over last 14 days</small>
+                <small>estimation from 390 edited files from 80 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.6838288023041" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="339.6838288023041" y="0" width="51.505646538907776" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="391.18947534121185" y="0" width="37.39891908279453" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="428.58839442400637" y="0" width="29.707266165659018" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.2956605896654" y="0" width="1.7043394103345946" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.3527945269017" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="340.3527945269017" y="0" width="51.21927179962894" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="391.5720663265306" y="0" width="37.190978664192954" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="428.76304499072353" y="0" width="29.542091836734695" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.3051368274582" y="0" width="1.694863172541744" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -393,8 +393,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>253 kB</div>
-                                <div>73.84%</div>
+                                <div>255 kB</div>
+                                <div>73.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -406,7 +406,7 @@
                             </div>
                             <small>
                                 <div>27.8 kB</div>
-                                <div>8.13%</div>
+                                <div>8.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -432,7 +432,7 @@
                             </div>
                             <small>
                                 <div>38.4 kB</div>
-                                <div>11.2%</div>
+                                <div>11.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -444,7 +444,7 @@
                             </div>
                             <small>
                                 <div>22.1 kB</div>
-                                <div>6.46%</div>
+                                <div>6.42%</div>
                             </small>
                         </div>
                     </section>
@@ -2476,10 +2476,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.175000000000001)">
+                            <g transform="translate(-1.7, 6.1)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.825 0,1.8250000000000002 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8250000000000002 1.7,2.825 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9 0,1.9 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9 1.7,2.9 z"/>
                             </g>
                         </g>
                     </g>
@@ -2494,6 +2494,65 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">react</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6a08f5f</span>
+                                        <span class="message">Update README.md</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Jan 2022, 11:41:37</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">razor</span>
+                                        in
+                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Jan 2022, 11:37:43</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#eb43f4c</span>
+                                        <span class="message">Update NuGet packages</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Jan 2022, 11:37:07</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2536,67 +2595,12 @@
                                 <div class="timestamp">10 Jan 2022, 11:13:14</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#da17877</span>
-                                        <span class="message">Update dotnet.yml</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Jan 2022, 11:12:31</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">master</span>
-                                        in
-                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Jan 2022, 11:11:47</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">razor</span>
-                                        in
-                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Jan 2022, 11:11:47</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jan 2022, 11:32:01 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 10 Jan 2022, 12:24:52 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
