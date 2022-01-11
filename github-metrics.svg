@@ -68,7 +68,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1880 Commits
+                            1881 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -384,18 +384,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 406 edited files from 85 commits over last 13 days</small>
+                <small>estimation from 406 edited files from 86 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="321.0522210836877" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="321.0522210836877" y="0" width="70.47164914488883" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="391.52387022857647" y="0" width="34.50405165898828" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="426.0279218875648" y="0" width="28.0003657654314" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="454.0282876529962" y="0" width="4.399297515215573" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="458.42758516821175" y="0" width="1.5724148317882434" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.14986416213645" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="320.14986416213645" y="0" width="71.55783099248802" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="391.7076951546245" y="0" width="34.40707376009398" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="426.11476891471847" y="0" width="27.9303029734144" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="454.0450718881329" y="0" width="4.386932746177632" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="458.4320046343105" y="0" width="1.5679953656894743" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -408,7 +408,7 @@
                             </div>
                             <small>
                                 <div>259 kB</div>
-                                <div>69.79%</div>
+                                <div>69.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -420,7 +420,7 @@
                             </div>
                             <small>
                                 <div>27.8 kB</div>
-                                <div>7.5%</div>
+                                <div>7.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -432,7 +432,7 @@
                             </div>
                             <small>
                                 <div>3.56 kB</div>
-                                <div>0.96%</div>
+                                <div>0.95%</div>
                             </small>
                         </div>
                     </section>
@@ -445,8 +445,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>56.9 kB</div>
-                                <div>15.32%</div>
+                                <div>58 kB</div>
+                                <div>15.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -458,7 +458,7 @@
                             </div>
                             <small>
                                 <div>22.6 kB</div>
-                                <div>6.09%</div>
+                                <div>6.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2507,10 +2507,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.05 0,2.05 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.05 1.7,3.05 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.925000000000001)">
+                            <g transform="translate(-3.4, 7.775)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.075 0,1.075 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.075 1.7,2.075 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.225 0,1.225 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.225 1.7,2.225 z"/>
                             </g>
                         </g>
                     </g>
@@ -2525,6 +2525,63 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/colors-1.4.2</span>
+                                        in
+                                        <span class="repo">stecrotti1/ELibrary</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Jan 2022, 11:44:15</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">stecrotti1/ELibrary</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#3fc1982</span>
+                                        <span class="message">Merge pull request #25 from stecrotti1/dependabot/npm_and_yarn/colors-1.4.2
+
+Bump colors from 1.4.0 to 1.4.2</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ceb436d</span>
+                                        <span class="message">Bump colors from 1.4.0 to 1.4.2
+
+Bumps [colors](https://github.com/Marak/colors.js) from 1.4.0 to 1.4.2.
+- [Release notes](https://github.com/Marak/colors.js/releases)
+- [Commits](https://github.com/Marak/colors.js/commits)
+
+---
+updated-dependencies:
+- dependency-name: colors
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Jan 2022, 11:44:13</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2567,54 +2624,12 @@
                                 <div class="timestamp">10 Jan 2022, 16:13:14</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">react</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#9b76fb2</span>
-                                        <span class="message">Add api authorization changes</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Jan 2022, 14:48:23</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">stecrotti1/DeliveryWebApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">react</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#24d55e3</span>
-                                        <span class="message">Update Infrastructure and DependencyInjection</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Jan 2022, 14:19:16</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2022, 11:32:00 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 11 Jan 2022, 12:24:31 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
