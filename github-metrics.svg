@@ -390,12 +390,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.37694704049846" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="323.37694704049846" y="0" width="69.85420560747664" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="393.23115264797514" y="0" width="34.753894080996886" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="427.985046728972" y="0" width="27.631152647975078" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.61619937694707" y="0" width="2.8" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="458.4161993769471" y="0" width="1.5838006230529595" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.37607103868066" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="323.37607103868066" y="0" width="69.8540163781217" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="393.23008741680235" y="0" width="34.75379993552774" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="427.9838873523301" y="0" width="27.63232389997589" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.616211252306" y="0" width="2.7999924150279965" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="458.41620366733395" y="0" width="1.5837963326660365" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2663,7 +2663,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2022, 05:38:22 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 06:28:17 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
