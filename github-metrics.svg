@@ -390,12 +390,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="336.3370106849791" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="336.3370106849791" y="0" width="65.70027518159506" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="402.03728586657417" y="0" width="31.843171281949573" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="433.88045714852376" y="0" width="17.522126087711033" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="451.40258323623476" y="0" width="6.88910925453058" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="458.2916924907654" y="0" width="1.7083075092346975" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="336.0720205773078" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="336.0720205773078" y="0" width="65.86110317233495" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="401.93312374964273" y="0" width="31.883395255787367" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.8165190054301" y="0" width="17.56501857673621" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="451.3815375821663" y="0" width="6.905973135181481" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="458.2875107173478" y="0" width="1.7124892826521863" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -407,8 +407,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>294 kB</div>
-                                <div>73.12%</div>
+                                <div>293 kB</div>
+                                <div>73.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -419,8 +419,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>27.9 kB</div>
-                                <div>6.92%</div>
+                                <div>27.8 kB</div>
+                                <div>6.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -446,7 +446,7 @@
                             </div>
                             <small>
                                 <div>57.6 kB</div>
-                                <div>14.28%</div>
+                                <div>14.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -458,7 +458,7 @@
                             </div>
                             <small>
                                 <div>15.3 kB</div>
-                                <div>3.81%</div>
+                                <div>3.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2661,7 +2661,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2022, 19:34:26 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 18 Jan 2022, 20:22:25 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
