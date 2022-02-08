@@ -391,12 +391,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="310.6821248490874" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="310.6821248490874" y="0" width="74.84269583126199" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.5248206803494" y="0" width="46.80526951210852" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="432.3300901924579" y="0" width="11.515517363823593" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.8456075562815" y="0" width="8.28137206164335" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="452.1269796179248" y="0" width="7.873020382075136" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.2299282300869" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="309.2299282300869" y="0" width="72.59059408559487" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="381.8205223156818" y="0" width="52.04394364210266" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="433.86446595778443" y="0" width="10.788411010597965" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.6528769683824" y="0" width="7.819570085877022" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.4724470542594" y="0" width="7.527552945740535" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -408,8 +408,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>38 kB</div>
-                                <div>67.54%</div>
+                                <div>38.1 kB</div>
+                                <div>67.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -420,20 +420,20 @@
                                 Java
                             </div>
                             <small>
-                                <div>5.73 kB</div>
-                                <div>10.18%</div>
+                                <div>6.42 kB</div>
+                                <div>11.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f7931e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Handlebars
+                                CSS
                             </div>
                             <small>
-                                <div>1.01 kB</div>
-                                <div>1.8%</div>
+                                <div>964 bytes</div>
+                                <div>1.7%</div>
                             </small>
                         </div>
                     </section>
@@ -446,8 +446,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>9.16 kB</div>
-                                <div>16.27%</div>
+                                <div>8.95 kB</div>
+                                <div>15.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -458,20 +458,20 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>1.41 kB</div>
-                                <div>2.5%</div>
+                                <div>1.33 kB</div>
+                                <div>2.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f7931e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CSS
+                                Handlebars
                             </div>
                             <small>
-                                <div>964 bytes</div>
-                                <div>1.71%</div>
+                                <div>928 bytes</div>
+                                <div>1.64%</div>
                             </small>
                         </div>
                     </section>
@@ -2593,7 +2593,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2022, 13:40:11 (timezone Europe/Rome) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 8 Feb 2022, 14:27:32 (timezone Europe/Rome) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
