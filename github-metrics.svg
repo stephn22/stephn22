@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1600" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1634" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1929 Commits
+                            1930 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -385,17 +385,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 83 edited files from 36 commits over last 14 days</small>
+                <small>estimation from 78 edited files from 36 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.10063990692262" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="163.10063990692262" y="0" width="88.40750436300175" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="251.50814426992437" y="0" width="81.98516579406632" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="333.4933100639907" y="0" width="63.47076788830716" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="396.9640779522978" y="0" width="63.03592204770216" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="130.48370711885596" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="130.48370711885596" y="0" width="98.56372587325154" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="229.0474329921075" y="0" width="95.00507931546456" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="324.05251230757204" y="0" width="68.20739235758381" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="392.2599046651559" y="0" width="67.7400953348441" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -407,20 +407,20 @@
                                 C#
                             </div>
                             <small>
-                                <div>9.75 kB</div>
-                                <div>35.46%</div>
+                                <div>7.26 kB</div>
+                                <div>28.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Java
                             </div>
                             <small>
-                                <div>4.90 kB</div>
-                                <div>17.82%</div>
+                                <div>5.29 kB</div>
+                                <div>20.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -432,7 +432,7 @@
                             </div>
                             <small>
                                 <div>3.77 kB</div>
-                                <div>13.7%</div>
+                                <div>14.73%</div>
                             </small>
                         </div>
                     </section>
@@ -440,13 +440,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Java
+                                JavaScript
                             </div>
                             <small>
-                                <div>5.29 kB</div>
-                                <div>19.22%</div>
+                                <div>5.48 kB</div>
+                                <div>21.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -458,7 +458,7 @@
                             </div>
                             <small>
                                 <div>3.79 kB</div>
-                                <div>13.8%</div>
+                                <div>14.83%</div>
                             </small>
                         </div>
                     </section>
@@ -2557,6 +2557,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#863c625</div>
+                                        <div class="message">Delete music.yml</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Feb 2022, 11:31:38</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">stecrotti1/stecrotti1</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#a0823fb</div>
                                         <div class="message">Update main.yml</div>
                                     </div>
@@ -2645,29 +2666,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="timestamp">10 Feb 2022, 14:26:53</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/npm_and_yarn/node-fetch-2.6.7</span>
-                                        in
-                                        <span class="repo">stecrotti1/ELibrary</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Feb 2022, 14:26:54</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2022, 11:28:58 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 17 Feb 2022, 11:32:12 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
