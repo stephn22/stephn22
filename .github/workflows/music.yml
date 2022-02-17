@@ -1,4 +1,7 @@
 name: Spotify - Recently listed
+on:
+  # Schedule updates
+  schedule: [{cron: "15 * * * *"}]
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.music.recent.svg
