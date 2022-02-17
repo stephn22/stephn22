@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1513" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1496" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1927 Commits
+                            1928 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -385,17 +385,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 82 edited files from 34 commits over last 14 days</small>
+                <small>estimation from 83 edited files from 35 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="161.43952207866988" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="161.43952207866988" y="0" width="92.98664843272034" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="254.42617051139024" y="0" width="80.35556195343146" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="334.7817324648217" y="0" width="62.82434231835031" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="397.606074783172" y="0" width="62.393925216828016" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.2695571192053" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="240.2695571192053" y="0" width="66.81757036423842" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="307.08712748344374" y="0" width="62.90252483443709" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="369.9896523178808" y="0" width="45.159871688741724" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="415.1495240066225" y="0" width="44.850475993377486" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -407,8 +407,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>9.75 kB</div>
-                                <div>35.1%</div>
+                                <div>20.1 kB</div>
+                                <div>52.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -419,8 +419,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>4.85 kB</div>
-                                <div>17.47%</div>
+                                <div>5.29 kB</div>
+                                <div>13.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -432,7 +432,7 @@
                             </div>
                             <small>
                                 <div>3.77 kB</div>
-                                <div>13.56%</div>
+                                <div>9.75%</div>
                             </small>
                         </div>
                     </section>
@@ -446,7 +446,7 @@
                             </div>
                             <small>
                                 <div>5.62 kB</div>
-                                <div>20.21%</div>
+                                <div>14.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -458,7 +458,7 @@
                             </div>
                             <small>
                                 <div>3.79 kB</div>
-                                <div>13.66%</div>
+                                <div>9.82%</div>
                             </small>
                         </div>
                     </section>
@@ -2533,6 +2533,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#61601a8</div>
+                                        <div class="message">Update music.yml</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Feb 2022, 11:19:07</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">stecrotti1/stecrotti1</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#e80c75f</div>
                                         <div class="message">Update workflows</div>
                                     </div>
@@ -2613,53 +2634,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="timestamp">4 Feb 2022, 10:19:54</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">stecrotti1/ELibrary</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1bda282</div>
-                                        <div class="message">Merge pull request #32 from stecrotti1/dependabot/npm_and_yarn/dotenv-16.0.0
-
-Bump dotenv from 14.2.0 to 16.0.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0000e29</div>
-                                        <div class="message">Bump dotenv from 14.2.0 to 16.0.0
-
-Bumps [dotenv](https://github.com/motdotla/dotenv) from 14.2.0 to 16.0.0.
-- [Release notes](https://github.com/motdotla/dotenv/releases)
-- [Changelog](https://github.com/motdotla/dotenv/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/motdotla/dotenv/compare/v14.2.0...v16.0.0)
-
----
-updated-dependencies:
-- dependency-name: dotenv
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">4 Feb 2022, 10:19:53</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2022, 11:16:28 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 17 Feb 2022, 11:20:18 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
