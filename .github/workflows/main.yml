@@ -12,14 +12,16 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          # GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: stecrotti1
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Etc/GMT-1   
+          config_timezone: Etc/GMT-1
+
+          # Commits calendar
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year
           plugin_skyline: yes
@@ -27,6 +29,8 @@ jobs:
           plugin_skyline_frames: 120
           plugin_skyline_quality: 1
           plugin_skyline_compatibility: yes
+
+          # Languages
           plugin_languages: yes
           plugin_languages_ignored: PLpgSQL
           plugin_languages_colors: github
@@ -36,6 +40,8 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: bytes-size, percentage 
           plugin_languages_threshold: 0%
+
+          # Activity
           plugin_activity: yes
           plugin_activity_limit: 5           
           plugin_activity_load: 100          
@@ -43,16 +49,22 @@ jobs:
           plugin_activity_filter: all        
           plugin_activity_visibility: public 
           plugin_activity_timestamps: yes    
-          plugin_activity_skipped: repo      
+          plugin_activity_skipped: repo
+
+          # Topics 
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_topics_sort: stars
+
+          # Music
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_mode: recent
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_music_limit: 3
+
+          # Achievements
           plugin_achievements: yes
           # plugin_achievements_only: >-
           #   polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
