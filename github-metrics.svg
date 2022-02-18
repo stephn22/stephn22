@@ -391,11 +391,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="122.38545930898968" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="122.38545930898968" y="0" width="118.33306042246602" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="240.7185197314557" y="0" width="99.56246929752743" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="340.28098902898313" y="0" width="62.789585721303425" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="403.07057475028654" y="0" width="56.92942524971345" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="124.50574712643679" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="124.50574712643679" y="0" width="112.41379310344828" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="236.91954022988506" y="0" width="101.28735632183908" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="338.2068965517241" y="0" width="63.877394636015325" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="402.0842911877395" y="0" width="57.91570881226054" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -408,7 +408,7 @@
                             </div>
                             <small>
                                 <div>8.12 kB</div>
-                                <div>26.61%</div>
+                                <div>27.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -420,7 +420,7 @@
                             </div>
                             <small>
                                 <div>6.61 kB</div>
-                                <div>21.64%</div>
+                                <div>22.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -432,7 +432,7 @@
                             </div>
                             <small>
                                 <div>3.78 kB</div>
-                                <div>12.38%</div>
+                                <div>12.59%</div>
                             </small>
                         </div>
                     </section>
@@ -445,8 +445,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>7.86 kB</div>
-                                <div>25.72%</div>
+                                <div>7.33 kB</div>
+                                <div>24.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -458,7 +458,7 @@
                             </div>
                             <small>
                                 <div>4.17 kB</div>
-                                <div>13.65%</div>
+                                <div>13.89%</div>
                             </small>
                         </div>
                     </section>
@@ -2661,7 +2661,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Feb 2022, 07:32:31 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 18 Feb 2022, 08:24:43 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
