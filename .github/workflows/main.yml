@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates
-  schedule: [{cron: "15 * * * *"}]
+  schedule: [{cron: "0 16 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -20,8 +20,12 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Rome     
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          # plugin_isocalendar: yes
+          # plugin_isocalendar_duration: full-year
+          plugin_skyline: yes
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
+          plugin_skyline_compatibility: yes
           plugin_languages: yes
           plugin_languages_ignored: PLpgSQL
           plugin_languages_colors: github
@@ -48,6 +52,12 @@ jobs:
           plugin_music_mode: recent
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_music_limit: 3
+          plugin_achievements: yes
+          # plugin_achievements_only: >-
+          #   polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+          #   scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
 
 
 
