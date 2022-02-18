@@ -19,7 +19,7 @@ jobs:
           user: stecrotti1
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Rome     
+          config_timezone: Etc/GMT-1   
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year
           plugin_skyline: yes
