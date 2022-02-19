@@ -19,7 +19,7 @@ jobs:
           user: stecrotti1
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Etc/GMT-1
+          # config_timezone: Etc/GMT-1
 
           # Commits calendar
           # plugin_isocalendar: yes
@@ -35,6 +35,8 @@ jobs:
           plugin_languages_ignored: PLpgSQL
           plugin_languages_colors: github
           plugin_languages_limit: 0
+
+          # Recent Languages
           plugin_languages_recent.days: 14
           plugin_languages_recent.load: 300
           plugin_languages_sections: most-used, recently-used
@@ -62,7 +64,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: recent
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
-          plugin_music_limit: 3
+          plugin_music_limit: 5
 
           # Achievements
           plugin_achievements: yes
