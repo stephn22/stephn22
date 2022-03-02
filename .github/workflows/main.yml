@@ -19,16 +19,14 @@ jobs:
           user: stecrotti1
           template: classic
           base: header, activity, community, repositories, metadata
-          # config_timezone: Etc/GMT-1
 
           # Commits calendar
-          # plugin_isocalendar: yes
-          # plugin_isocalendar_duration: full-year
-          plugin_skyline: yes
-          plugin_skyline_year: default
-          plugin_skyline_frames: 6
-          plugin_skyline_quality: 1
-          plugin_skyline_compatibility: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          # plugin_skyline: yes
+          # plugin_skyline_year: default
+          # plugin_skyline_frames: 6
+          # plugin_skyline_quality: 1
 
           # Languages
           plugin_languages: yes
