@@ -30,7 +30,7 @@ jobs:
 
           # Languages
           plugin_languages: yes
-          plugin_languages_ignored: PLpgSQL
+          plugin_languages_ignored: PLpgSQL, Gherkin
           plugin_languages_colors: github
           plugin_languages_limit: 0
 
