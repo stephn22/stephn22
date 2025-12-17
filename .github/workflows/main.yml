@@ -18,7 +18,7 @@ jobs:
           # Options
           user: stephn22
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
 
           # Commits calendar
           plugin_isocalendar: yes
