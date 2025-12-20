@@ -30,7 +30,4 @@ jobs:
           
           plugin_topics: yes
           plugin_topics_mode: icons
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
           
